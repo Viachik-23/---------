@@ -131,3 +131,14 @@ header #contacts{
     float: right;
     margin-top: 15%;
 }
+
+.container #center #rightCo {
+    width: 50%;
+    float: right;
+    margin-right: 10%;
+}
+
+.container #center #rightCo #picha {
+    border-radius: 50%;
+    margin-bottom: 10%;
+}
